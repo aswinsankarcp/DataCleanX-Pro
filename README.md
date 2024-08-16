@@ -49,7 +49,7 @@ DataCleanX_Pro/
 ├── report_generator.py    # Report generation and visualization
 ├── utils.py               # Utility functions
 └── assets/
-    └── icon.png           # GUI icon (optional)
+    └── icon.png           # GUI icon 
 ```
 
 ## Installation
